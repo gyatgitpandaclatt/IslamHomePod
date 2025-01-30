@@ -223,10 +223,6 @@ def run_home_screen(screen):
         pygame.time.delay(1)
 
 
-
-
-
-
 if __name__ == '__main__':
     pygame.init()
     screen = pygame.display.set_mode((1080, 1080))
@@ -236,7 +232,3 @@ if __name__ == '__main__':
 
 
 
-# HELLLO 
-
-
-# CHANGED THIS 
