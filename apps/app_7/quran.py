@@ -9,5 +9,5 @@ def play_quran(folder_path):
                 pygame.mixer.music.play()
                 while pygame.mixer.music.get_busy():
                     pygame.time.Clock().tick(10)
-play_quran('/Users/morajaauuuuuuugh/Downloads/IslamHomePod-main/apps/app_7')
+play_quran("IslamHomePod-main/apps/app_7")
 
